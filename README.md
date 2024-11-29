@@ -13,7 +13,7 @@ More details [here](https://personal.lse.ac.uk/robert49/ebooks/philsciadventures
 
 In the anime and manga "Jujutsu Kaisen", Satoru Gojo possesses a technique called "Infinity" that prevents his opponents from touching him directly. The closer an opponent gets to him, the slower they become, seemingly never able to reach Gojo. This concept is inspired by the Achilles and the Tortoise paradox, where the distance between Achilles and the tortoise reduces at each step, but Achilles can never actually catch the tortoise.
 
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*FqV2ZhTzy1tYPOK3T-lyhg.gif">
+![Achilles and the Tortoise Paradox](https://miro.medium.com/v2/resize:fit:1200/1*FqV2ZhTzy1tYPOK3T-lyhg.gif)
 
 ## Program Description
 
